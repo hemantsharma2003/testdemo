@@ -49,6 +49,7 @@
                         <label for="firstName">First Name:</label>
                         <input type="text" class="form-control" required id="firstName" name="first_name">
                     </div>
+                    
                     <div class="col-6">
                         <label for="lastName">Last Name:</label>
                         <input type="text" class="form-control" required id="lastName" name="last_name">
